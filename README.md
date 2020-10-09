@@ -13,11 +13,11 @@
 const sebas = {
    askMeAbout: ["asynchronism", "frontend", "hooks"],
    technologies: {
-      backEnd: ["nodejs", "express", "flask"],
-      fronEnd: ["react", "vue", "angular"],
+      backEnd: ["nodejs", "express"],
+      fronEnd: ["react", "vue", "angular", "sass"],
       mobileApp: ["react native"],
-      database: ["postgres","mySql"],
-      serverless: ["aws-lambda", "heroku", "vercel"],
+      database: ["PostgreSQL","mySQL"],
+      serverless: ["aws-lambda", "vercel", "heroku"],
    }
 }
 ```
