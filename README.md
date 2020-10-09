@@ -1,16 +1,32 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**SebasttianVelez/sebasttianvelez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌵 Hi, I'm Sebastián 
+### Full Stack Developer Evangelized by Javascript 👨‍💻
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/LinkedIn-Sebasttianvelez-blue)](https://www.linkedin.com/in/sebasttianvelez/)
+[![](https://img.shields.io/badge/Gmail-sebasttianvelez@gmail.com-red)](mailto:sebasttianvelez@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const sebas = {
+   askMeAbout: ["asynchronism", "frontend", "hooks"],
+   technologies: {
+      backEnd: ["nodejs", "express", "flask"],
+      fronEnd: ["react", "vue", "angular"],
+      mobileApp: ["react native"],
+      database: ["postgres","mySql"],
+      serverless: ["aws-lambda", "heroku", "vercel"],
+   }
+}
+```
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebasttianvelez&show_icons=true&theme=synthwave" alt="Sebasttianvelez :: Profile Stats" /></p>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{sebasttianvelez}/count.svg" alt="SebasttianVelez :: Visitor's Count" /></p>
