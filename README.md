@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## 🌵 Hi, I'm Sebastián 
-### Full Stack Developer Evangelized by Javascript 👨‍💻
+### Web Developer Evangelized by Javascript 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-Sebasttianvelez-blue)](https://www.linkedin.com/in/sebasttianvelez/)
 [![](https://img.shields.io/badge/Gmail-sebasttianvelez@gmail.com-red)](mailto:sebasttianvelez@gmail.com)
