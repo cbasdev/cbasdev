@@ -15,7 +15,7 @@ const sebas = {
    technologies: {
       backEnd: ["nodejs", "nextjs"],
       fronEnd: ["react", "vue", "tailwindcss", "sass"],
-      mobile&Desktop: ["react native", "electron"],
+      mobileAndDesktop: ["react native", "electron"],
       database: ["PostgreSQL","mySQL"],
       others: ["vercel", "jest", "esbuild"],
    }
