@@ -25,7 +25,7 @@ const sebas = {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cbasdev&show_icons=true&theme=jolly" alt="cbasdev :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cbasdev&count_private=true&show_icons=true&theme=jolly" alt="cbasdev :: Profile Stats" /></p>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
