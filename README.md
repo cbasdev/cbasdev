@@ -9,12 +9,12 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```typescript
 const sebas = {
    askMeAbout: ["asynchronism", "frontend", "hooks"],
    technologies: {
-      backEnd: ["nodejs", "nextjs"],
-      fronEnd: ["react", "vue", "tailwindcss", "sass"],
+      fronEnd: ["react", "nextjs", "vue", "tailwindcss", "sass"],
+      backEnd: ["nodejs"],
       mobileAndDesktop: ["react native", "native script", "electron"],
       database: ["PostgreSQL","mySQL"],
       others: ["vercel", "jest", "esbuild"],
