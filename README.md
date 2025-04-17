@@ -1,9 +1,11 @@
 
 
 ## 🌵 Hi, I'm Sebastián 
+<img align='right' src="https://i.imgur.com/mtGc7Sl.gif" width="300">
+
 ### Software Engineer at [Mercado Libre](https://github.com/mercadolibre) 👨‍💻
 
-<img align='right' src="https://i.imgur.com/mtGc7Sl.gif" width="300">
+
 
 [![](https://img.shields.io/badge/LinkedIn-cbasdev-blue)](https://www.linkedin.com/in/cbasdev/)
 [![](https://img.shields.io/badge/Gmail-info.cbasdev@gmail.com-red)](mailto:info.cbasdev@gmail.com)
