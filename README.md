@@ -17,12 +17,12 @@
 ### Main Stack:
 
 
-![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,vercel,vite,postgresql)
+![My Skills](https://skillicons.dev/icons?i=ts,react,go,nodejs,nextjs,vercel,aws)
 
 
 ### I have used:
 
-![My Skills](https://skillicons.dev/icons?i=js,astro,vue,tailwindcss,docker,mysql,express,graphql,sass,spring,go)
+![My Skills](https://skillicons.dev/icons?i=js,astro,vite,tailwindcss,docker,mysql,express,graphql,spring,postgresql)
 
 
 <br />
