@@ -24,14 +24,3 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,astro,vite,tailwindcss,docker,mysql,express,graphql,spring,postgresql)
 
-
-<br />
-<h2>Github stats :bar_chart:</h2>
-
-<h4>Profile stats :musical_keyboard:</h4>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=cbasdev&count_private=true&show_icons=true&theme=jolly" alt="cbasdev :: Profile Stats" /></p>
-
-<h4>Visitor's count :eyes:</h4>
-
-<p><img src="https://profile-counter.glitch.me/{cbasdev}/count.svg" alt="cbasdev :: Visitor's Count" /></p>
